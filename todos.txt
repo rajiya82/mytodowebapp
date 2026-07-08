@@ -1,0 +1,5 @@
+play
+add
+visit
+run
+clean
